@@ -1,3 +1,3 @@
 #HTML Clone 2023 Update.
 
-CSS go so much better!
+HTML & CSS are so much Fun!
